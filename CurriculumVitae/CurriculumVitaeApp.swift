@@ -11,7 +11,7 @@ import SwiftUI
 struct CurriculumVitaeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Profile()
         }
     }
 }
